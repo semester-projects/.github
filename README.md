@@ -6,9 +6,7 @@ Welcome to the **Semester Projects by [cmd-HMN]** organization! This organizatio
 
 Here are some of the projects available in this organization:
 
-- **[Project 1: Text Based Game](https://github.com/semester-projects/project-1-text-based-game)** - A full-stack web application built using JavaScript, Node.js, and MongoDB.
-
-You can explore each project repository to learn more about the technologies used and how to set them up.
+- **[Project 1: Text Based Terminal Game](https://github.com/semester-projects/project-1-text-based-game)**
 
 ## How to Contribute
 
@@ -21,7 +19,7 @@ I welcome contributions to my projects! If you'd like to contribute, please foll
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me through [my GitHub profile](https://github.com/cmd-HMN) or email at [your-email@example.com].
+If you have any questions or feedback, feel free to reach out to me through [my GitHub profile](https://github.com/cmd-HMN) or email at [hafizmuhammadnoor01@gmail.com].
 
 ## Badges
 
